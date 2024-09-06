@@ -14,5 +14,8 @@
   "dependencies": {
     "apollo-server-express": "^3.13.0",
     "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.6.11"
   }
 }
